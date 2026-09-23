@@ -1,0 +1,6 @@
+n_inicial_destino,m_novas_entradas,nomes_inseridos,nomes_redundantes,seqiter_comparacoes,seqrec_comparacoes,msiter_comparacoes,msiter_movimentacoes,msrec_comparacoes,msrec_movimentacoes,biniter_comparacoes,binrec_comparacoes,insercao_ordenada_movimentacoes
+250,1,1,0,250,250,1691,3992,1687,3988,16,16,144
+500,1,1,0,500,500,3873,8984,3859,8976,18,18,105
+1000,1,1,0,1000,1000,8749,19968,8718,19952,20,20,885
+2000,1,1,0,2000,2000,19469,43936,19394,43904,22,22,1154
+4000,1,1,0,4000,4000,42846,95872,42720,95808,24,24,441

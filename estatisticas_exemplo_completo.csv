@@ -1,0 +1,2 @@
+n_inicial_destino,m_novas_entradas,nomes_inseridos,nomes_redundantes,seqiter_comparacoes,seqrec_comparacoes,msiter_comparacoes,msiter_movimentacoes,msrec_comparacoes,msrec_movimentacoes,biniter_comparacoes,binrec_comparacoes,insercao_ordenada_movimentacoes
+0,4328,4328,0,9363628,9363628,0,0,0,0,92584,92584,4718066
